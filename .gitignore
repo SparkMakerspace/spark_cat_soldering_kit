@@ -1,0 +1,16 @@
+# gerbers
+gerbers/
+
+# KiCAD cache files
+fp-info-cache
+fp-lib-table
+sym-lib-table
+
+
+# zips
+*.zip
+
+# svg2shenzhen cache
+.svg2shenzhen-cache/
+
+
